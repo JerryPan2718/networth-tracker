@@ -150,7 +150,7 @@ Panark
 - Crypto
   - Kraken USDT: 30k
   - Coinbase USDT: 36k
-  - Onchain SOL + USDT (SOL at $152): 203k
+  - Onchain SOL + USDT (SOL at $152): 203k + 40k = 243k
 - Real estate 
   - equity (Stessa): 205000-157000=48k
-- In Total: 738k
+- In Total: 778k
